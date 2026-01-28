@@ -1,0 +1,51 @@
+h1#couriergreen {
+	font-family: "Courier New", Times, serif;
+	color:ForestGreen;
+	text-align:center
+}
+
+h2 {
+	font-family: "Courier New", Times, serif;
+	color:Crimson;
+	text-align:center
+}
+
+.centerforestgreen {
+	font-family: "Garamond", Times, serif;
+	color:ForestGreen;
+	text-align:center
+}
+
+.leftcrimson {
+	font-family: "Times New Roman", Times, serif;
+	color:Crimson;
+	text-align:left
+}
+
+.list1 {
+	font-family: "Times New Roman", Times, serif;
+	color:Fuchsia;
+	text-align:center
+}
+.list2 {
+	font-family: "Times New Roman", Times, serif;
+	color:dodgerblue;
+	text-align:center
+}
+.list3	{
+	color:indigo;
+	text-align:center
+}
+
+.pieimg {
+	border:10px Solid ForestGreen;
+}
+.cakeimg {
+	border:8px Solid Fuchsia
+}
+.icecreamimg {
+	border:8px Solid dodgerblue
+}
+.otherpieimg {
+	border:8px Solid indigo
+}
